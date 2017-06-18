@@ -40,7 +40,7 @@ Python 3 or higher installed
 
 #### Developer
 
-[Sr. Biggs] (https://github.com/BiggsCoder)
+[Sr. Biggs](https://github.com/BiggsCoder)
 
 
 ## Espanhol
@@ -61,4 +61,4 @@ Python 3 o superior instalados
 
 #### Desarrollador
 
-[Sr Biggs] (https://github.com/BiggsCoder)
+[Sr Biggs](https://github.com/BiggsCoder)
