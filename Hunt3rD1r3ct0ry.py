@@ -98,6 +98,6 @@ elif quest == 'n':
 			print(default1+"+----------------------------------------------------------+")
 			print(vermelho+"|              [!]        Not Found                        |")
 			print(default1+"+----------------------------------------------------------+")
-			print(vermelho+"            URL: "+ url + y)
-			print(vermelho+"            Codigo: "+ str(codigo))
+			print(branco+"            URL: "+ url + y)
+			print(branco+"            Codigo: "+ str(codigo))
 			print(default1+"+----------------------------------------------------------+\n")
